@@ -1,0 +1,34 @@
+{
+  "properties": {
+    "loggerId": "/subscriptions/e264dba3-586b-4893-ada9-dfef763facc5/resourceGroups/azure-rg-new/providers/Microsoft.ApiManagement/service/azure-apim-01/loggers/azuremonitor",
+    "backend": {
+      "request": {
+        "dataMasking": {
+          "queryParams": [
+            {
+              "mode": "Hide",
+              "value": "*"
+            }
+          ]
+        }
+      }
+    },
+    "frontend": {
+      "request": {
+        "dataMasking": {
+          "queryParams": [
+            {
+              "mode": "Hide",
+              "value": "*"
+            }
+          ]
+        }
+      }
+    },
+    "logClientIp": true,
+    "sampling": {
+      "percentage": 100,
+      "samplingType": "fixed"
+    }
+  }
+}
