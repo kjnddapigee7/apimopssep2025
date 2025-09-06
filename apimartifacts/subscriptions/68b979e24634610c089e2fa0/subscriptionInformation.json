@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/e264dba3-586b-4893-ada9-dfef763facc5/resourceGroups/azure-rg-new/providers/Microsoft.ApiManagement/service/azure-apim-01/products/demo",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/e264dba3-586b-4893-ada9-dfef763facc5/resourceGroups/azure-rg-new/providers/Microsoft.ApiManagement/service/azure-apim-01/users/1",
+    "state": "active"
+  }
+}
