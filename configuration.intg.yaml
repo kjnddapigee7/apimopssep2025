@@ -1,0 +1,6 @@
+apimServiceName: apim-test-intg
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
