@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "displayName": "akv-nv",
+    "keyVault": {
+      "secretIdentifier": "https://apim-test-kv1.vault.azure.net/secrets/test-client-id"
+    },
+    "secret": true,
+    "tags": []
+  }
+}
