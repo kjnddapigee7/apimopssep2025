@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "akv-test-east",
+    "secret": false,
+    "tags": [],
+    "value": "akv-test-east"
+  }
+}

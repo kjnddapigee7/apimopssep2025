@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "test-nv",
+    "secret": false,
+    "tags": [],
+    "value": "test-nv"
+  }
+}
