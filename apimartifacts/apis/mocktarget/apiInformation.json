@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "path": "mocktarget",
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "description": "",
+    "isCurrent": true,
+    "displayName": "mocktarget",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "https://mocktarget.apigee.net",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}

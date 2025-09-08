@@ -1,0 +1,45 @@
+openapi: 3.0.1
+info:
+  title: mocktarget
+  description: ''
+  version: '1.0'
+servers:
+  - url: https://azure-apim-01.azure-api.net/mocktarget
+paths:
+  /:
+    get:
+      summary: all
+      description: all
+      operationId: all
+      responses:
+        '200':
+          description: ''
+  /json:
+    get:
+      summary: json
+      description: json
+      operationId: json
+      responses:
+        '200':
+          description: ''
+  /xml:
+    get:
+      summary: xml
+      description: xml
+      operationId: xml
+      responses:
+        '200':
+          description: ''
+components:
+  securitySchemes:
+    apiKeyHeader:
+      type: apiKey
+      name: Ocp-Apim-Subscription-Key
+      in: header
+    apiKeyQuery:
+      type: apiKey
+      name: subscription-key
+      in: query
+security:
+  - apiKeyHeader: [ ]
+  - apiKeyQuery: [ ]

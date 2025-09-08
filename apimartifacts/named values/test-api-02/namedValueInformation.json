@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "test-api-02",
+    "secret": false,
+    "tags": [],
+    "value": "value from Named Value"
+  }
+}
