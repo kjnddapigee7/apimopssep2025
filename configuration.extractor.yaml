@@ -5,14 +5,12 @@
   - mocktarget
 
  backendNames:
-  - mocktarget_backend
   
  diagnosticNames:
 
  loggerNames:
 
  namedValueNames:
-  - mocktarget_clientid
 
  productNames:
 
