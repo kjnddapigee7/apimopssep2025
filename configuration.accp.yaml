@@ -9,4 +9,7 @@ namedValues:
 loggers:
 diagnostics:
 backends:
+ - name: backend1
+     properties:
+       url: https://accp.salesforce.com
 apis:
