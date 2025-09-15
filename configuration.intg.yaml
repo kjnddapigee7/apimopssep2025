@@ -9,7 +9,7 @@ namedValues:
 loggers:
 diagnostics:
 backends:
- - name: backend1
+ - name: httpbin
      properties:
-       url: https://intg.salesforce.com
+       url: https://salesforce.com
 apis:
